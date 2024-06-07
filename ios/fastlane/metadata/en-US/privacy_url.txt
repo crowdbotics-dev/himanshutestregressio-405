@@ -1,1 +1,1 @@
-https://www.crowdbotics.com/privacy-policy
+https://qa-test-hub.crowdbotics.com/dashboard/app/344/settings?tab=app-store-connect
